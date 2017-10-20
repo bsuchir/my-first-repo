@@ -1,28 +1,24 @@
-# This is a large heading
+#Suchir Bhatnagar
 
-## This is a smaller heading
+##India
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+###3rd heading 
 
-- This is
-- an unordered
-- list
+I live in Gurgaon. 
 
-1. This is
-2. an ordered
-3. list
+###Reading
+Three of my favorite books are:
+-The class
+-Love Story
+-Man, woman and child 
 
-Here is `some code` in the middle of a sentence.
+###Food
+my favorite foods are:
+1. Chicken do pyaza
+2. Mutton biryani
+3. Lal Maas
 
-```
-This is
-a block
-of code
-```
+###Contact
+The best way to contact me is through [email](suchir.bhatnagar@gmail.com).
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
