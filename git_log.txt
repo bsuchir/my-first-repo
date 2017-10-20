@@ -1,0 +1,24 @@
+commit eb8d030eeec93cba47b504c5c01091272712b35d
+Author: bsuchir <suchir.bhatnagar@gmail.com>
+Date:   Wed Oct 18 13:40:27 2017 +0530
+
+    Modified .gitignore
+
+commit fac8d6b7e6f17bc14a014a86affdfd511c36cfc7
+Author: bsuchir <suchir.bhatnagar@gmail.com>
+Date:   Wed Oct 18 13:36:48 2017 +0530
+
+    added .gitignore
+
+commit aa5f60e89a18b7b4938b20dde3163b0fd855c7b3
+Author: bsuchir <suchir.bhatnagar@gmail.com>
+Date:   Tue Oct 17 06:37:35 2017 +0530
+
+    added two file
+
+commit 2b6ac952d924d3203c80ee0aaade6235627870bf
+Author: bsuchir <suchir.bhatnagar@gmail.com>
+Date:   Tue Oct 17 06:33:57 2017 +0530
+
+    added readme.txt
+
